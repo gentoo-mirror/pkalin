@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure
+DEPEND=dev-libs/libcerror dev-libs/libcthreads
+DESCRIPTION=Library for cross-platform C generic data functions
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libcdata
+IUSE=nls unicode
+KEYWORDS=~amd64 ~hppa ~ppc ~x86
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcerror dev-libs/libcthreads
+SLOT=0
+SRC_URI=https://github.com/libyal/libcdata/releases/download/20180102/libcdata-alpha-20180102.tar.gz
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	versionator	2352c3fc97241f6a02042773c8287748
+_md5_=494e226ab183b8f029ed50a392073f76

@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure
+DESCRIPTION=Library for cross-platform C error functions
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libcerror
+IUSE=nls unicode
+KEYWORDS=~amd64 ~hppa ~ppc ~x86
+LICENSE=LGPL-3
+SLOT=0
+SRC_URI=https://github.com/libyal/libcerror/releases/download/20180102/libcerror-beta-20180102.tar.gz
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	versionator	2352c3fc97241f6a02042773c8287748
+_md5_=36d5a410a6a60ad541cf443be1c17867

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install setup unpack
+DEPEND=sys-kernel/linux-headers sys-process/numactl
+DESCRIPTION=PF_RING: High-speed packet processing framework (libpfring)
+EAPI=7
+HOMEPAGE=http://www.ntop.org/products/packet-capture/pf_ring/
+IUSE=static-libs kernel_linux
+LICENSE=LGPL-2.1
+PROPERTIES=live
+RDEPEND=sys-kernel/linux-headers sys-process/numactl ~sys-kernel/pf_ring-kmod-9999
+SLOT=0
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	8ec5b53812bce105ae7943930e4660f8	linux-info	c90a203b1c14cfa77bd3e37a0e96c955	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=61c7e25205016fd60edf7c1f33658f49

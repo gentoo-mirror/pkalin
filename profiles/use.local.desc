@@ -1,0 +1,87 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-admin/gentoo-nifty-scripts:i18n - Add support for non-utf8 encoded ZIP files via app-text/convmv.
+app-forensics/libewf:fuse - Enable fuse support for ewfmount
+app-forensics/libewf:uuid - Enable UUID support in the ewftools
+app-forensics/sleuthkit:aff - Enable extra aff formats
+app-forensics/sleuthkit:ewf - Enable libewf support
+net-analyzer/bro:broccoli - Enable the Bro Client Communication Library
+net-analyzer/bro:broctl - An interactive shell for managing Bro installations
+net-analyzer/bro:broker - Bro's new Messaging Library (experimental)
+net-analyzer/bro:geoip - Enable support for Maxmind's GeoIP library
+net-analyzer/bro:ipv6 - Support for mobile IPv6
+net-analyzer/bro:jemalloc - Support for the Jemalloc allocator
+net-analyzer/bro:python - Enable Python bindings
+net-analyzer/bro:ruby - Enable Ruby bindings (deprecated)
+net-analyzer/bro:tcmalloc - Enable Google's Performance Analysis Tools
+net-analyzer/bro:tools - Small auxiliary tools for Bro
+net-analyzer/nfdump:compat15 - Enable read support for nfdump data files created with nfdump 1.5.x
+net-analyzer/nfdump:ftconv - Build the flow-tools to nfdump converter
+net-analyzer/nfdump:nfprofile - Build nfprofile used by NfSen
+net-analyzer/nfdump:nftrack - Build nfprofile used by PortTracker
+net-analyzer/nfdump:readpcap - Build nfcapd collector to read from pcap file instead ofnetwork data
+net-analyzer/nfdump:sflow - Build sflow collector sfcpad
+net-analyzer/suricata:af-packet - Enable AF_PACKET support
+net-analyzer/suricata:control-socket - Enable unix socket
+net-analyzer/suricata:cuda - Enable NVIDIA Cuda computations support
+net-analyzer/suricata:detection - Enable detection modules
+net-analyzer/suricata:logrotate - Use app-admin/logrotate for rotating logs
+net-analyzer/suricata:luajit - Enable Luajit support
+net-analyzer/suricata:nflog - Enable libnetfilter_log support
+net-analyzer/suricata:nfqueue - Enable NFQUEUE support for inline IDP
+net-analyzer/suricata:pfring - Enable PF_RING support(net-libs/libpfring)
+net-analyzer/suricata:redis - Enable Redis support
+net-analyzer/suricata:rules - Install default ruleset
+net-analyzer/yaf:applabel - enable the packet payload application label engine
+net-analyzer/yaf:entropy - enable the packet payload entropy calculation
+net-analyzer/yaf:man - install man pages
+net-analyzer/yaf:mpls - enable MPLS label hashing and export
+net-analyzer/yaf:nonip - enable non-IP data decode and flow export
+net-analyzer/yaf:p0f - enable the OS finger printing capability by net-analyzer/p0f
+net-analyzer/yaf:spread - Add support for net-misc/spread
+net-libs/h323plus:aec - Enable acoustic echo cancellation
+net-libs/h323plus:sound - Enable audio codecs
+net-libs/h323plus:video - Enable video codecs
+net-libs/libfixbuf:man - install man pages
+net-libs/libfixbuf:spread - Add support for net-misc/spread
+net-libs/opal:celt - Enable CELT ultra-low delay audio codec
+net-libs/opal:dtmf - Enable DTMF encoding/decoding support
+net-libs/opal:fax - Enable T.38 FAX protocol
+net-libs/opal:h224 - Enable H.224 real time control protocol
+net-libs/opal:h281 - Enable H.281 Far-End Camera Control protocol
+net-libs/opal:h323 - Enable H.323 protocol
+net-libs/opal:iax - Enable Inter-Asterisk eXchange protocol
+net-libs/opal:ilbc - Enable iLBC (RFC 3951) speech codec
+net-libs/opal:ivr - Enable Interactive Voice Response
+net-libs/opal:lid - Enable Line Interface Device
+net-libs/opal:plugins - Enable plugins support
+net-libs/opal:sbc - Enable the Bluetooth low-complexity, SubBand Codec
+net-libs/opal:sip - Enable Session Initiation Protocol
+net-libs/opal:sipim - Enable SIP Instant Messages session
+net-libs/opal:srtp - Enable Secure Real-time Transport Protocol
+net-libs/opal:stats - Enable statistic reporting
+net-libs/opal:swig - Use swig to generate bindings
+net-libs/opal:video - Enable video support
+net-libs/opal:vpb - Enable Voicetronics VPB card support
+net-libs/opal:vxml - Enable VXML support
+net-libs/opal:wav - Enable WAVFILE support
+net-libs/opal:x264-static - Install x264 plugin statically linked with x264
+net-libs/ptlib:asn - Enable ASN decoding/encoding support
+net-libs/ptlib:dtmf - Enable DTMF encoding/decoding support
+net-libs/ptlib:http - Enable HTTP support
+net-libs/ptlib:mail - Enable mail protocols (POP3/SMTP)
+net-libs/ptlib:qos - Enable QOS support
+net-libs/ptlib:remote - Enable remote connection support
+net-libs/ptlib:serial - Enable serial port support
+net-libs/ptlib:shmvideo - Enable shared memory video devices
+net-libs/ptlib:socks - Enable SOCKS protocol support
+net-libs/ptlib:stun - Enable STUN support
+net-libs/ptlib:telnet - Enable telnet protocol support
+net-libs/ptlib:tts - Enable Text-To-Speech server support
+net-libs/ptlib:video - Enable video support
+net-libs/ptlib:vxml - Enable VoiceXML support
+net-libs/ptlib:wav - Enable WAVFILE support
+net-voip/ekiga:h323 - Enable H.323 protocol
+net-voip/ekiga:shm - Enable the Shared Memory Extension from libXext

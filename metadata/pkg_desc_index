@@ -1,0 +1,73 @@
+app-admin/gentoo-nifty-scripts 9999: Nifty scrips for gentoo that go under /usr/local/{,s}bin
+app-forensics/ftimes 3.10.0 3.11.0: A system baselining and evidence collection tool
+app-forensics/grr 0.3.0_p20150917 0.3.0_p20151118 9999: GRR Rapid Response is an Incident Response Framework
+app-forensics/hindsight 2.1.1 9999: Internet history forensics for Google Chrome/Chromium
+app-forensics/indxparse 9999: INDXParse: Tool suite for inspecting NTFS artifacts
+app-forensics/libbfio 20170123: Library for providing a basic file input/output abstraction layer
+app-forensics/libewf 9999 20171104-r1: Implementation of the EWF (SMART and EnCase) image format
+app-forensics/log2timeline 0.65 0.66 9999: Create forensic supertimelines in Perl
+app-forensics/pytsk 20150406: Python bindings for Sleuthkit
+app-forensics/rekall-core 1.4.1-r1 1.6.0 9999: Rekall Memory Forensic Framework
+app-forensics/rekall-gui 1.4.1 1.6.0 9999: Rekall Memory Forensic Framework
+app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
+app-forensics/sleuthkit 4.4.1 4.6.0: A collection of file system and media management forensic analysis tools
+app-forensics/volatility 2.5 9999: Forensic tool for analyzing volatile memory
+app-text/FoxitReader 1.1.0-r1: A free, closed-source PDF document viewer (not supported anymore, 32bit)
+dev-embedded/arduino-bin 1.6.13: An open-source AVR electronics prototyping platform
+dev-embedded/avarice 2.13-r1 2.13-r2: Interface for GDB to Atmel AVR JTAGICE in circuit emulator
+dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
+dev-libs/libcaes 20170110_alpha: Library for date and time formats
+dev-libs/libcdata 20180102_alpha: Library for cross-platform C generic data functions
+dev-libs/libcdatetime 20170609_alpha: Library for cross-platform C date and time functions
+dev-libs/libcerror 20180102_beta: Library for cross-platform C error functions
+dev-libs/libcfile 20170105_alpha: Library for cross-platform C file functions
+dev-libs/libclocale 20170105_alpha: Library for cross-platform C locale functions
+dev-libs/libcnotify 20180102_beta: Library for cross-platform C notification functions
+dev-libs/libcpath 20170108: Library for cross-platform C path functions
+dev-libs/libcsplit 20180103_beta: Library for cross-platform C split string functions
+dev-libs/libcthreads 20170101_alpha: Library for cross-platform C threads functions
+dev-libs/libfcache 20170111: Library for cross-platform C cache functions
+dev-libs/libfdata 20170112: Library for cross-platform C file data functions
+dev-libs/libfdatetime 20170902_alpha: Library for date and time formats
+dev-libs/libfguid 20170112_alpha: Library for GUID/UUID format
+dev-libs/libfvalue 20170113: Library for generic file value functions
+dev-libs/libfwnt 20180117: Library for Windows NT data types
+dev-libs/libsmdev 20171112: Library to access to storage media device
+dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
+dev-perl/File-Mork 0.4: File::Mork - a module to read Mozilla URL history files
+dev-perl/Mac-PropertyList 1.412: Mac::PropertyList - work with Mac plists at a low level
+dev-perl/Parse-Win32Registry 1.0: Parse::Win32Registry - Parse Windows Registry Files
+dev-python/acora 1.8 9999: Fast multi-keyword search engine for text strings
+dev-python/binplist 0.1.4 9999: Binary property list (plist) parser
+dev-python/dotty 0.0.1_pre20150804 9999: EFILTER Query Language
+dev-python/h2 2.1.2: HTTP/2 State-Machine based protocol implementation
+dev-python/parse-crontab 9999: Python bindings for ssdeep
+dev-python/pyaff4 0.19 9999: Python Advanced Forensic Format Version 4 library.
+dev-python/pydeep 0.2 9999: Python bindings for ssdeep
+dev-util/codelite 5.0.6213: Cross platform IDE for the C/C++ programming languages
+media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
+media-libs/fontconfig 2.11.1-r2: A library for configuring and customizing font access
+net-analyzer/bro 2.5.5: The Bro Network Security Monitor
+net-analyzer/nfdump 1.6.18: A set of tools to collect and process netflow data
+net-analyzer/passivedns 1.2.0 9999: A network sniffer for DNS server replies
+net-analyzer/suricata 4.0.3: High performance Network IDS, IPS and Network Security Monitoring engine
+net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
+net-libs/h323plus 1.25.0-r1 1.25.0-r2: Open Source implementation of the ITU H.323 protocol, successor of OpenH323
+net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
+net-libs/libpfring 7.4.0 9999: PF_RING: High-speed packet processing framework (libpfring)
+net-libs/opal 3.10.11-r1: C++ class library normalising numerous telephony protocols
+net-libs/ptlib 2.10.11: Network focused portable C++ class library providing high level functions
+net-print/cndrvcups-common 3.10: Common files for Canon drivers
+net-print/cndrvcups-lb 3.00: Canon UFR II / LIPSLX Printer Driver for Linux
+net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, DocuCentre-V, DocuPrint)
+net-print/pipslite 1.4.0: Photo Image Print System Lite (PIPS Lite) provides drivers for Epson inkjet printers
+net-voip/ekiga 4.0.1-r1: H.323 and SIP VoIP softphone
+net-voip/openmcu 2.2.5-r1: Simple Multi Conference Unit using H.323
+sci-biology/mfold_util 4.7: mfold_util: graphic rendering for UNAFold
+sci-biology/unafold 3.8-r2: Unified Nucleic Acid Folding and hybridization package
+sys-fs/libldm 0.2.3: Tool for managing windows's LDM partitions
+sys-kernel/pf_ring-kmod 7.6.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
+virtual/libusb 1-r3: Virtual for libusb
+www-client/firefox 56.0: Firefox Web Browser
+x11-drivers/evdi 1.3.43-r1: Extensible Virtual Display Interface
+x11-themes/gnome-icon-theme 3.12.0-r1: GNOME default icon theme

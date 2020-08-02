@@ -1,0 +1,12 @@
+DEFINED_PHASES=unpack
+DEPEND=>=app-forensics/openscap-1.2.5 app-arch/rpm dev-libs/libxslt >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Baseline compliance content in SCAP formats
+EAPI=5
+HOMEPAGE=http://www.open-scap.org/security-policies/scap-security-guide
+KEYWORDS=~amd64
+LICENSE=Unlicense
+PROPERTIES=live
+RDEPEND=>=app-forensics/openscap-1.2.5 app-arch/rpm dev-libs/libxslt
+SLOT=0
+_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_md5_=c7b8666257f4024df0cdad53072f40ee
