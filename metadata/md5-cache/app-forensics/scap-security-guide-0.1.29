@@ -8,5 +8,5 @@ LICENSE=Unlicense
 PROPERTIES=live
 RDEPEND=>=app-forensics/openscap-1.2.5 app-arch/rpm dev-libs/libxslt
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=c7b8666257f4024df0cdad53072f40ee
