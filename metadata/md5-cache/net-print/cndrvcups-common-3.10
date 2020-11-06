@@ -8,5 +8,5 @@ RDEPEND=dev-libs/libxml2 gnome-base/libglade net-print/cups x11-libs/gtk+:2
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://files.canon-europe.com/files/soft46530/software/o1581en_linux_UFRII_v300.zip
-_eclasses_=estack	686eaab303305a908fd57b2fd7617800	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	versionator	2352c3fc97241f6a02042773c8287748
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	versionator	d0cb835f36e8d01ee1d8b7b7df7cd6b5
 _md5_=8798f7b2e31582b9507294736d1507a9
