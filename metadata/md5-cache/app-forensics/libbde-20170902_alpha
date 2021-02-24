@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure
+DEPEND=dev-libs/libcerror dev-libs/libcthreads
+DESCRIPTION=Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libbde
+IUSE=nls unicode
+KEYWORDS=~amd64
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcerror dev-libs/libcthreads
+SLOT=0
+SRC_URI=https://github.com/libyal/libbde/releases/download/20170902/libbde-alpha-20170902.tar.gz
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	versionator	d3fb3ba33acc3bbbdc4d7970227c100d
+_md5_=86aa9dc97f381f1b4f3be4a85c25ce32
