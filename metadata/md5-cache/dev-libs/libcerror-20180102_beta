@@ -2,6 +2,7 @@ DEFINED_PHASES=configure
 DESCRIPTION=Library for cross-platform C error functions
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libcerror
+INHERIT=versionator
 IUSE=nls unicode
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3

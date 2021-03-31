@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcdatetime dev-libs/libcerror dev-libs/libclocale dev-libs/lib
 DESCRIPTION=Library to support Unicode and ASCII (byte string) conversions
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libuna
+INHERIT=versionator
 IUSE=nls unicode
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3

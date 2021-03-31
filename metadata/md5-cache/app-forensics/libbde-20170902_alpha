@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcerror dev-libs/libcthreads
 DESCRIPTION=Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libbde
+INHERIT=versionator
 IUSE=nls unicode
 KEYWORDS=~amd64
 LICENSE=LGPL-3

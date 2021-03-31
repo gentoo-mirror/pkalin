@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthr
 DESCRIPTION=Library for generic file value functions
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libfvalue
+INHERIT=versionator
 IUSE=debug nls
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3

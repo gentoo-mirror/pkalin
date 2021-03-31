@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcerror
 DESCRIPTION=Library for cross-platform C notification functions
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libcnotify
+INHERIT=versionator
 IUSE=nls unicode
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3

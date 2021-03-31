@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcerror dev-libs/libclocale dev-libs/libcnotify dev-libs/libun
 DESCRIPTION=Library for cross-platform C file functions
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libcfile
+INHERIT=versionator
 IUSE=nls unicode debug
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3

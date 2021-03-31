@@ -3,6 +3,7 @@ DEPEND=dev-libs/libcerror
 DESCRIPTION=Library for GUID/UUID format
 EAPI=6
 HOMEPAGE=https://github.com/libyal/libfguid
+INHERIT=versionator
 IUSE=nls
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3
