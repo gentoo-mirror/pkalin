@@ -3,11 +3,12 @@ DEPEND=dev-vcs/git >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Nifty scrips for gentoo that go under /usr/local/{,s}bin
 EAPI=6
 HOMEPAGE=https://github.com/thinrope/gentoo-nifty-scripts
+INHERIT=git-r3
 IUSE=+i18n
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-vcs/git app-portage/eix app-portage/demerge app-admin/perl-cleaner app-portage/gentoolkit i18n? ( app-text/convmv app-arch/p7zip ) sys-apps/util-linux sys-apps/coreutils sys-devel/bc
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=ca6511d79428a6b8654d206328927ee8
