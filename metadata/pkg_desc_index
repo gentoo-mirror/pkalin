@@ -1,13 +1,11 @@
 app-admin/gentoo-nifty-scripts 9999: Nifty scrips for gentoo that go under /usr/local/{,s}bin
 app-forensics/ftimes 3.10.0 3.11.0: A system baselining and evidence collection tool
-app-forensics/grr 0.3.0_p20150917 0.3.0_p20151118 9999: GRR Rapid Response is an Incident Response Framework
 app-forensics/hindsight 2.1.1 9999: Internet history forensics for Google Chrome/Chromium
 app-forensics/indxparse 9999: INDXParse: Tool suite for inspecting NTFS artifacts
 app-forensics/libbde 20170902_alpha 20200724_alpha: Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 app-forensics/libbfio 20170123: Library for providing a basic file input/output abstraction layer
 app-forensics/libewf 9999 20171104-r1: Implementation of the EWF (SMART and EnCase) image format
 app-forensics/log2timeline 0.65 0.66 9999: Create forensic supertimelines in Perl
-app-forensics/pytsk 20150406: Python bindings for Sleuthkit
 app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
 app-text/FoxitReader 1.1.0-r1: A free, closed-source PDF document viewer (not supported anymore, 32bit)
 dev-embedded/arduino-bin 1.6.13: An open-source AVR electronics prototyping platform
@@ -35,13 +33,6 @@ dev-libs/nss 3.40.1-r1 3.40.1-r2 3.42.1 3.44-r1 3.44-r2: Mozilla's Network Secur
 dev-perl/File-Mork 0.4: File::Mork - a module to read Mozilla URL history files
 dev-perl/Mac-PropertyList 1.412: Mac::PropertyList - work with Mac plists at a low level
 dev-perl/Parse-Win32Registry 1.0: Parse::Win32Registry - Parse Windows Registry Files
-dev-python/acora 1.8 9999: Fast multi-keyword search engine for text strings
-dev-python/binplist 0.1.4 9999: Binary property list (plist) parser
-dev-python/dotty 0.0.1_pre20150804 9999: EFILTER Query Language
-dev-python/h2 2.1.2: HTTP/2 State-Machine based protocol implementation
-dev-python/parse-crontab 9999: Python bindings for ssdeep
-dev-python/pyaff4 0.19 9999: Python Advanced Forensic Format Version 4 library.
-dev-python/pydeep 0.2 9999: Python bindings for ssdeep
 dev-util/codelite 5.0.6213: Cross platform IDE for the C/C++ programming languages
 media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
 media-libs/fontconfig 2.11.1-r2: A library for configuring and customizing font access
