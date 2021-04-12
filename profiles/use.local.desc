@@ -76,3 +76,11 @@ net-libs/ptlib:vxml - Enable VoiceXML support
 net-libs/ptlib:wav - Enable WAVFILE support
 net-voip/ekiga:h323 - Enable H.323 protocol
 net-voip/ekiga:shm - Enable the Shared Memory Extension from libXext
+sys-block/partclone:btrfs - Support btrfs
+sys-block/partclone:exfat - Support exfat
+sys-block/partclone:fat - Support fat
+sys-block/partclone:hfs - Support hfs
+sys-block/partclone:minix - Support minix
+sys-block/partclone:ntfs - Support ntfs
+sys-block/partclone:vmfs - Support vmfs
+sys-block/partclone:xfs - Support xfs

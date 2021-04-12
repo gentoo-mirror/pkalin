@@ -53,6 +53,7 @@ net-voip/ekiga 4.0.1-r1: H.323 and SIP VoIP softphone
 net-voip/openmcu 2.2.5-r1: Simple Multi Conference Unit using H.323
 sci-biology/mfold_util 4.7: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r2: Unified Nucleic Acid Folding and hybridization package
+sys-block/partclone 0.3.17: Partition cloning tool
 sys-fs/libldm 0.2.3: Tool for managing windows's LDM partitions
 sys-kernel/pf_ring-kmod 7.6.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
 virtual/libusb 1-r3: Virtual for libusb
