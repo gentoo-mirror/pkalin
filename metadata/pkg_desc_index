@@ -6,6 +6,7 @@ app-forensics/libbde 20170902_alpha 20200724_alpha: Library and tools to access 
 app-forensics/libbfio 20170123: Library for providing a basic file input/output abstraction layer
 app-forensics/libewf 9999 20171104-r1: Implementation of the EWF (SMART and EnCase) image format
 app-forensics/log2timeline 0.65 0.66 9999: Create forensic supertimelines in Perl
+app-forensics/pytsk 20210327: Python bindings for Sleuthkit
 app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
 app-text/FoxitReader 1.1.0-r1: A free, closed-source PDF document viewer (not supported anymore, 32bit)
 dev-embedded/arduino-bin 1.6.13: An open-source AVR electronics prototyping platform
