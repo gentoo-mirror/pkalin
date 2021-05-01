@@ -34,7 +34,6 @@ dev-libs/nss 3.40.1-r1 3.40.1-r2 3.42.1 3.44-r1 3.44-r2: Mozilla's Network Secur
 dev-perl/File-Mork 0.4: File::Mork - a module to read Mozilla URL history files
 dev-perl/Mac-PropertyList 1.412: Mac::PropertyList - work with Mac plists at a low level
 dev-perl/Parse-Win32Registry 1.0: Parse::Win32Registry - Parse Windows Registry Files
-dev-util/codelite 5.0.6213: Cross platform IDE for the C/C++ programming languages
 media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
 net-analyzer/nfdump 1.6.18: A set of tools to collect and process netflow data
 net-analyzer/passivedns 1.2.0 9999: A network sniffer for DNS server replies
