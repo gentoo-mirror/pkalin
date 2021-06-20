@@ -47,7 +47,6 @@ net-libs/ptlib 2.10.11: Network focused portable C++ class library providing hig
 net-print/cndrvcups-common 3.10: Common files for Canon drivers
 net-print/cndrvcups-lb 3.00: Canon UFR II / LIPSLX Printer Driver for Linux
 net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, DocuCentre-V, DocuPrint)
-net-print/pipslite 1.4.0: Photo Image Print System Lite (PIPS Lite) provides drivers for Epson inkjet printers
 net-voip/ekiga 4.0.1-r1: H.323 and SIP VoIP softphone
 net-voip/openmcu 2.2.5-r1: Simple Multi Conference Unit using H.323
 sci-biology/mfold_util 4.7: mfold_util: graphic rendering for UNAFold
