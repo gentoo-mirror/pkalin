@@ -9,5 +9,5 @@ LICENSE=MPL-1.0 GPL-2
 RDEPEND=net-libs/ptlib:= net-libs/h323plus:=
 SLOT=0
 SRC_URI=mirror://sourceforge/h323plus/h323plus-app-v1_23_0.tar.gz
-_eclasses_=user-info	8eda7e0ed7acb4b9678bea151579e154	user	1e9788ed3d1120a037bc627062ab3c61
+_eclasses_=user-info	8eda7e0ed7acb4b9678bea151579e154	user	527b8f84a662e996f692f97ffd2c893a
 _md5_=0904004f864d8f5930fbd487c01655e2
