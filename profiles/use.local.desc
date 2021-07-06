@@ -37,7 +37,6 @@ net-libs/h323plus:sound - Enable audio codecs
 net-libs/h323plus:video - Enable video codecs
 net-libs/libfixbuf:man - install man pages
 net-libs/libfixbuf:spread - Add support for net-misc/spread
-net-libs/opal:celt - Enable CELT ultra-low delay audio codec
 net-libs/opal:dtmf - Enable DTMF encoding/decoding support
 net-libs/opal:fax - Enable T.38 FAX protocol
 net-libs/opal:h224 - Enable H.224 real time control protocol
