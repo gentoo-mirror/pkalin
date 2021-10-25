@@ -41,7 +41,7 @@ net-analyzer/suricata 4.0.3: High performance Network IDS, IPS and Network Secur
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-libs/h323plus 1.25.0-r1 1.25.0-r2: Open Source implementation of the ITU H.323 protocol, successor of OpenH323
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
-net-libs/libpfring 7.4.0 9999: PF_RING: High-speed packet processing framework (libpfring)
+net-libs/libpfring 8.0.0 9999: PF_RING: High-speed packet processing framework (libpfring)
 net-libs/opal 3.18.7: C++ class library normalising numerous telephony protocols
 net-libs/ptlib 2.18.7: Network focused portable C++ class library providing high level functions
 net-print/cndrvcups-common 3.10: Common files for Canon drivers
@@ -53,7 +53,7 @@ sci-biology/mfold_util 4.7: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r2: Unified Nucleic Acid Folding and hybridization package
 sys-block/partclone 0.3.17: Partition cloning tool
 sys-fs/libldm 0.2.3: Tool for managing windows's LDM partitions
-sys-kernel/pf_ring-kmod 7.6.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
+sys-kernel/pf_ring-kmod 8.0.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
 virtual/libudev 232-r4: Virtual for libudev providers
 virtual/libusb 1-r3: Virtual for libusb
 www-client/firefox 56.0: Firefox Web Browser

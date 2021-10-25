@@ -6,6 +6,7 @@ EAPI=7
 HOMEPAGE=http://www.ntop.org/products/packet-capture/pf_ring/
 INHERIT=linux-mod linux-info git-r3
 IUSE=kernel_linux kernel_linux dist-kernel kernel_linux
+KEYWORDS=~amd64
 LICENSE=LGPL-2.1
 PROPERTIES=live
 RDEPEND=virtual/linux-sources kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) )
