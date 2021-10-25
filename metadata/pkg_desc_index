@@ -10,7 +10,6 @@ app-forensics/pytsk 20210327: Python bindings for Sleuthkit
 app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
 app-text/FoxitReader 1.1.0-r1: A free, closed-source PDF document viewer (not supported anymore, 32bit)
 dev-embedded/arduino-bin 1.6.13: An open-source AVR electronics prototyping platform
-dev-embedded/avarice 2.13-r1 2.13-r2: Interface for GDB to Atmel AVR JTAGICE in circuit emulator
 dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libcaes 20170110_alpha: Library for date and time formats
 dev-libs/libcdata 20180102_alpha: Library for cross-platform C generic data functions
