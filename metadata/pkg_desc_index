@@ -1,4 +1,5 @@
 app-admin/gentoo-nifty-scripts 9999: Nifty scrips for gentoo that go under /usr/local/{,s}bin
+app-forensics/bulk_extractor 2.0.0_beta1 9999: Scans a disk image for regular expressions and other content
 app-forensics/ftimes 3.10.0 3.11.0: A system baselining and evidence collection tool
 app-forensics/hindsight 2.1.1 9999: Internet history forensics for Google Chrome/Chromium
 app-forensics/indxparse 9999: INDXParse: Tool suite for inspecting NTFS artifacts

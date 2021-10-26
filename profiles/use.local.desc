@@ -3,6 +3,12 @@
 # * generated automatically using pmaint *
 
 app-admin/gentoo-nifty-scripts:i18n - Add support for non-utf8 encoded ZIP files via app-text/convmv.
+app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
+app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
+app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
+app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
+app-forensics/bulk_extractor:hashdb - Enable the hashdb scanner
+app-forensics/bulk_extractor:rar - Enable RAR decompression
 app-forensics/libewf:fuse - Enable fuse support for ewfmount
 app-forensics/libewf:uuid - Enable UUID support in the ewftools
 dev-libs/nss:cacert - Include root/class3 certs from CAcert (http://www.cacert.org/)
