@@ -5,6 +5,7 @@ DESCRIPTION=A network sniffer for DNS server replies
 EAPI=8
 HOMEPAGE=https://github.com/gamelinux/passivedns
 INHERIT=git-r3 autotools toolchain-funcs
+KEYWORDS=~amd64
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=>=net-libs/ldns-1.7.1-r5 >=net-libs/libpcap-1.10.0-r1

@@ -37,7 +37,7 @@ dev-perl/Mac-PropertyList 1.412: Mac::PropertyList - work with Mac plists at a l
 dev-perl/Parse-Win32Registry 1.0: Parse::Win32Registry - Parse Windows Registry Files
 media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
 net-analyzer/nfdump 1.6.18: A set of tools to collect and process netflow data
-net-analyzer/passivedns 1.2.0 9999: A network sniffer for DNS server replies
+net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
 net-analyzer/suricata 4.0.3: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-libs/h323plus 1.25.0-r1 1.25.0-r2: Open Source implementation of the ITU H.323 protocol, successor of OpenH323
