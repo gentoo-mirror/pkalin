@@ -39,7 +39,6 @@ media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing an
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 net-analyzer/nfdump 1.6.18: A set of tools to collect and process netflow data
 net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
-net-analyzer/suricata 4.0.3: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-firewall/ipt_netflow 2.6_p20211125: Netflow iptables module
 net-libs/h323plus 1.25.0-r1 1.25.0-r2: Open Source implementation of the ITU H.323 protocol, successor of OpenH323
