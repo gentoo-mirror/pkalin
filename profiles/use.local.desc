@@ -17,12 +17,6 @@ dev-libs/nss:utils - Install utilities included with the library
 media-gfx/ufraw:contrast - enable contrast setting option
 media-gfx/ufraw:fits - Enable support for the FITS image format through sci-libs/cfitsio
 media-gfx/ufraw:timezone - enable DST correction for file timestamps
-net-analyzer/nfdump:compat15 - Enable read support for nfdump data files created with nfdump 1.5.x
-net-analyzer/nfdump:ftconv - Build the flow-tools to nfdump converter
-net-analyzer/nfdump:nfprofile - Build nfprofile used by NfSen
-net-analyzer/nfdump:nftrack - Build nfprofile used by PortTracker
-net-analyzer/nfdump:readpcap - Build nfcapd collector to read from pcap file instead ofnetwork data
-net-analyzer/nfdump:sflow - Build sflow collector sfcpad
 net-analyzer/suricata:af-packet - Enable AF_PACKET support
 net-analyzer/suricata:bpf - Enable support for eBPF (as well as XDP if supported by the kernel and the NIC driver) for low-level, high-speed packet processing
 net-analyzer/suricata:control-socket - Enable unix socket
