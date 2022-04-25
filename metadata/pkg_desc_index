@@ -42,17 +42,12 @@ net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
 net-analyzer/suricata 6.0.4-r1: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-firewall/ipt_netflow 2.6_p20211125: Netflow iptables module
-net-libs/h323plus 1.25.0-r1 1.25.0-r2: Open Source implementation of the ITU H.323 protocol, successor of OpenH323
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
 net-libs/libpfring 8.0.0 9999: PF_RING: High-speed packet processing framework (libpfring)
-net-libs/opal 3.18.7: C++ class library normalising numerous telephony protocols
-net-libs/ptlib 2.18.7: Network focused portable C++ class library providing high level functions
 net-mail/libpst 0.6.76: Tools and library for reading Outlook files (.pst format)
 net-print/cndrvcups-common 3.10: Common files for Canon drivers
 net-print/cndrvcups-lb 3.00: Canon UFR II / LIPSLX Printer Driver for Linux
 net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, DocuCentre-V, DocuPrint)
-net-voip/ekiga 4.0.1-r1: H.323 and SIP VoIP softphone
-net-voip/openmcu 2.2.5-r1: Simple Multi Conference Unit using H.323
 sci-biology/mfold_util 4.7: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r2: Unified Nucleic Acid Folding and hybridization package
 sys-block/partclone 0.3.17: Partition cloning tool

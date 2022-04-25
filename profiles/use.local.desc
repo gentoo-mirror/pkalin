@@ -24,16 +24,16 @@ net-analyzer/nfdump:nftrack - Build nfprofile used by PortTracker
 net-analyzer/nfdump:readpcap - Build nfcapd collector to read from pcap file instead ofnetwork data
 net-analyzer/nfdump:sflow - Build sflow collector sfcpad
 net-analyzer/suricata:af-packet - Enable AF_PACKET support
+net-analyzer/suricata:bpf - Enable support for eBPF (as well as XDP if supported by the kernel and the NIC driver) for low-level, high-speed packet processing
 net-analyzer/suricata:control-socket - Enable unix socket
 net-analyzer/suricata:cuda - Enable NVIDIA Cuda computations support
 net-analyzer/suricata:detection - Enable detection modules
-net-analyzer/suricata:logrotate - Use app-admin/logrotate for rotating logs
-net-analyzer/suricata:luajit - Enable Luajit support
+net-analyzer/suricata:hyperscan - Enable high-performance regex matching with Hyperscan
+net-analyzer/suricata:lz4 - Enable support for compressed pcap logging using the LZ4 algorithm
 net-analyzer/suricata:nflog - Enable libnetfilter_log support
 net-analyzer/suricata:nfqueue - Enable NFQUEUE support for inline IDP
 net-analyzer/suricata:pfring - Enable PF_RING support(net-libs/libpfring)
 net-analyzer/suricata:redis - Enable Redis support
-net-analyzer/suricata:rules - Install default ruleset
 net-analyzer/yaf:applabel - enable the packet payload application label engine
 net-analyzer/yaf:entropy - enable the packet payload entropy calculation
 net-analyzer/yaf:man - install man pages
@@ -42,49 +42,8 @@ net-analyzer/yaf:nonip - enable non-IP data decode and flow export
 net-analyzer/yaf:p0f - enable the OS finger printing capability by net-analyzer/p0f
 net-analyzer/yaf:spread - Add support for net-misc/spread
 net-firewall/ipt_netflow:natevents - Netflow NAT translation events (NEL) support
-net-libs/h323plus:aec - Enable acoustic echo cancellation
-net-libs/h323plus:sound - Enable audio codecs
-net-libs/h323plus:video - Enable video codecs
 net-libs/libfixbuf:man - install man pages
 net-libs/libfixbuf:spread - Add support for net-misc/spread
-net-libs/opal:dtmf - Enable DTMF encoding/decoding support
-net-libs/opal:fax - Enable T.38 FAX protocol
-net-libs/opal:h224 - Enable H.224 real time control protocol
-net-libs/opal:h281 - Enable H.281 Far-End Camera Control protocol
-net-libs/opal:h323 - Enable H.323 protocol
-net-libs/opal:iax - Enable Inter-Asterisk eXchange protocol
-net-libs/opal:ilbc - Enable iLBC (RFC 3951) speech codec
-net-libs/opal:ivr - Enable Interactive Voice Response
-net-libs/opal:lid - Enable Line Interface Device
-net-libs/opal:plugins - Enable plugins support
-net-libs/opal:sbc - Enable the Bluetooth low-complexity, SubBand Codec
-net-libs/opal:sip - Enable Session Initiation Protocol
-net-libs/opal:sipim - Enable SIP Instant Messages session
-net-libs/opal:srtp - Enable Secure Real-time Transport Protocol
-net-libs/opal:stats - Enable statistic reporting
-net-libs/opal:swig - Use swig to generate bindings
-net-libs/opal:video - Enable video support
-net-libs/opal:vpb - Enable Voicetronics VPB card support
-net-libs/opal:vxml - Enable VXML support
-net-libs/opal:wav - Enable WAVFILE support
-net-libs/opal:x264-static - Install x264 plugin statically linked with x264
-net-libs/ptlib:asn - Enable ASN decoding/encoding support
-net-libs/ptlib:dtmf - Enable DTMF encoding/decoding support
-net-libs/ptlib:http - Enable HTTP support
-net-libs/ptlib:mail - Enable mail protocols (POP3/SMTP)
-net-libs/ptlib:qos - Enable QOS support
-net-libs/ptlib:remote - Enable remote connection support
-net-libs/ptlib:serial - Enable serial port support
-net-libs/ptlib:shmvideo - Enable shared memory video devices
-net-libs/ptlib:socks - Enable SOCKS protocol support
-net-libs/ptlib:stun - Enable STUN support
-net-libs/ptlib:telnet - Enable telnet protocol support
-net-libs/ptlib:tts - Enable Text-To-Speech server support
-net-libs/ptlib:video - Enable video support
-net-libs/ptlib:vxml - Enable VoiceXML support
-net-libs/ptlib:wav - Enable WAVFILE support
-net-voip/ekiga:h323 - Enable H.323 protocol
-net-voip/ekiga:shm - Enable the Shared Memory Extension from libXext
 sys-block/partclone:btrfs - Support btrfs
 sys-block/partclone:exfat - Support exfat
 sys-block/partclone:fat - Support fat
