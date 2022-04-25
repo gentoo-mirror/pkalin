@@ -1,0 +1,17 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4 virtual/pkgconfig
+DEFINED_PHASES=config configure install postinst prepare pretend setup
+DEPEND=python_single_target_python3_9? ( dev-lang/python:3.9 ) acct-group/suricata acct-user/suricata dev-libs/jansson:= dev-libs/libpcre dev-libs/libyaml net-libs/libnet:* net-libs/libnfnetlink dev-libs/nspr dev-libs/nss python_single_target_python3_9? ( dev-python/pyyaml[python_targets_python3_9(-)] ) >=net-libs/libhtp-0.5.39 net-libs/libpcap sys-apps/file sys-libs/libcap-ng bpf? ( >=dev-libs/libbpf-0.1.0 ) cuda? ( dev-util/nvidia-cuda-toolkit ) geoip? ( dev-libs/libmaxminddb:= ) hyperscan? ( dev-libs/hyperscan ) lua? ( lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) ) lz4? ( app-arch/lz4 ) nflog? ( net-libs/libnetfilter_log ) nfqueue? ( net-libs/libnetfilter_queue ) pfring? ( net-libs/libpfring ) redis? ( dev-libs/hiredis:= ) >=sys-devel/autoconf-2.69-r5 virtual/rust
+DESCRIPTION=High performance Network IDS, IPS and Network Security Monitoring engine
+EAPI=7
+HOMEPAGE=https://suricata.io/
+INHERIT=autotools linux-info lua-single python-single-r1 systemd tmpfiles
+IUSE=+af-packet bpf control-socket cuda debug +detection geoip hardened hyperscan lua lz4 nflog +nfqueue pfring redis systemd test lua_single_target_luajit lua_single_target_lua5-1 +python_single_target_python3_9
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=python_single_target_python3_9? ( dev-lang/python:3.9 ) acct-group/suricata acct-user/suricata dev-libs/jansson:= dev-libs/libpcre dev-libs/libyaml net-libs/libnet:* net-libs/libnfnetlink dev-libs/nspr dev-libs/nss python_single_target_python3_9? ( dev-python/pyyaml[python_targets_python3_9(-)] ) >=net-libs/libhtp-0.5.39 net-libs/libpcap sys-apps/file sys-libs/libcap-ng bpf? ( >=dev-libs/libbpf-0.1.0 ) cuda? ( dev-util/nvidia-cuda-toolkit ) geoip? ( dev-libs/libmaxminddb:= ) hyperscan? ( dev-libs/hyperscan ) lua? ( lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) ) lz4? ( app-arch/lz4 ) nflog? ( net-libs/libnetfilter_log ) nfqueue? ( net-libs/libnetfilter_queue ) pfring? ( net-libs/libpfring ) redis? ( dev-libs/hiredis:= ) virtual/tmpfiles
+REQUIRED_USE=^^ ( python_single_target_python3_9 ) bpf? ( af-packet ) lua? ( ^^ ( lua_single_target_luajit lua_single_target_lua5-1 ) )
+RESTRICT=!test? ( test )
+SLOT=0/6
+SRC_URI=https://www.openinfosecfoundation.org/download/suricata-6.0.4.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9724194ab651ce63fd9bc06e4e1410b4	linux-info	3cfb791b045bfb6773a6d0f2d80ce9fd	lua-utils	e69ff116248d78546ae1a234c086fe80	lua-single	f2c2fb82c912dd65d53bdae3613a331f	python-utils-r1	e41e32d357e5bdd388b5be2ce24f3883	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8	systemd	2736b403a83f194b59b767f3b344c2c1	tmpfiles	216aa76c3a6fcb5d893c23a0de86048f
+_md5_=5e37eff161d4fb732b17b3913d34faa4
