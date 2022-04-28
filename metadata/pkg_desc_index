@@ -38,7 +38,7 @@ dev-perl/Parse-Win32Registry 1.0: Parse::Win32Registry - Parse Windows Registry 
 media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
-net-analyzer/suricata 6.0.4-r1: High performance Network IDS, IPS and Network Security Monitoring engine
+net-analyzer/suricata 6.0.5: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-firewall/ipt_netflow 2.6_p20211125: Netflow iptables module
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
