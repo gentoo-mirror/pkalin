@@ -11,5 +11,5 @@ RDEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcth
 REQUIRED_USE=python? ( || ( python_targets_python2_7 python_targets_python3_6 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfwnt/releases/download/20180117/libfwnt-alpha-20180117.tar.gz
-_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	python-utils-r1	e41e32d357e5bdd388b5be2ce24f3883	python-r1	8638751691200e941f26fe0ac3aef1d1
+_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	python-utils-r1	e41e32d357e5bdd388b5be2ce24f3883	python-r1	8638751691200e941f26fe0ac3aef1d1
 _md5_=069b2b211e82efb000a02a749b504734
