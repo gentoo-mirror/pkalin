@@ -11,4 +11,4 @@ RDEPEND=media-libs/exiftool >=dev-perl/Archive-Zip-1.18 dev-perl/Carp-Assert dev
 SLOT=0
 SRC_URI=https://github.com/thinrope/log2timeline/archive/v0.66.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	95b2df43c5f3057b6e77bd00b4d953da	perl-module	f2c1b0dd41761ffc8441cd041e4bb7ec
-_md5_=544db42fb02e62053298c610fb1e5088
+_md5_=6eb7810e3c6d415f17c3b943b5b12ecc
