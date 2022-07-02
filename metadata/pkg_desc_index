@@ -6,6 +6,7 @@ app-forensics/indxparse 9999: INDXParse: Tool suite for inspecting NTFS artifact
 app-forensics/libbde 20170902_alpha 20200724_alpha: Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 app-forensics/libbfio 20170123: Library for providing a basic file input/output abstraction layer
 app-forensics/libewf 9999 20171104-r1: Implementation of the EWF (SMART and EnCase) image format
+app-forensics/log2timeline 0.66-r1 9999: Create forensic supertimelines in Perl
 app-forensics/pytsk 20210327: Python bindings for Sleuthkit
 app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
 app-text/FoxitReader 1.1.0-r1: A free, closed-source PDF document viewer (not supported anymore, 32bit)
@@ -31,6 +32,9 @@ dev-libs/libsmdev 20171112: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libusb 1.0.24-r1: Userspace access to USB devices
 dev-libs/nss 3.40.1-r1 3.40.1-r2 3.42.1 3.44-r1 3.44-r2: Mozilla's Network Security Services library that implements PKI support
+dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history files
+dev-perl/Mac-PropertyList 1.503: Mac::PropertyList - work with Mac plists at a low level
+dev-perl/Parse-Win32Registry 1.1: Parse Windows Registry Files
 media-gfx/pfstools 1.8.5: A set of command line programs for reading, writing and manipulating HDR images
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
