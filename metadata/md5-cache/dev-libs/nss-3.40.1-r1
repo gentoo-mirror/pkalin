@@ -11,5 +11,5 @@ RDEPEND=>=dev-libs/nspr-4.16[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_m
 RESTRICT=test
 SLOT=0
 SRC_URI=https://archive.mozilla.org/pub/security/nss/releases/NSS_3_40_1_RTM/src/nss-3.40.1.tar.gz cacert? ( https://dev.gentoo.org/~axs/distfiles/nss-cacert-class1-class3.patch ) nss-pem? ( https://dev.gentoo.org/~polynomial-c/nss-pem-20160329.tar.xz )
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	dab5d8ec471d025b79c9e6906bcf3bff	toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	flag-o-matic	a3abd6002fafb3022597be6b8d01f88b	multibuild	d26d81f242cb193d899a72bca423d0bd	multilib-build	05f207909a804c9174bc39a00547d598	multilib-minimal	4b0f1857965db8869a729948d5277e0b
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	dab5d8ec471d025b79c9e6906bcf3bff	toolchain-funcs	3484f775017f532a8d1ae02c65defe13	multilib	4fbbbc98f236f1b43acd99476bc3cd85	flag-o-matic	a3abd6002fafb3022597be6b8d01f88b	multibuild	d26d81f242cb193d899a72bca423d0bd	multilib-build	05f207909a804c9174bc39a00547d598	multilib-minimal	4b0f1857965db8869a729948d5277e0b
 _md5_=f6309ac79e05725e0406aa10ba3f3e35
