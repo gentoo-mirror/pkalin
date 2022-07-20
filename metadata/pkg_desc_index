@@ -34,7 +34,7 @@ dev-perl/Mac-PropertyList 1.503: Mac::PropertyList - work with Mac plists at a l
 dev-perl/Parse-Win32Registry 1.1: Parse Windows Registry Files
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
-net-analyzer/suricata 6.0.5: High performance Network IDS, IPS and Network Security Monitoring engine
+net-analyzer/suricata 6.0.6: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-firewall/ipt_netflow 2.6_p20211125: Netflow iptables module
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
