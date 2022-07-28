@@ -34,6 +34,7 @@ dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history fil
 dev-perl/Mac-PropertyList 1.503: Mac::PropertyList - work with Mac plists at a low level
 dev-perl/Parse-Win32Registry 1.1: Parse Windows Registry Files
 media-gfx/nomacs 3.16.224-r3: Qt-based image viewer
+media-gfx/pfstools 2.2.0: A set of command line programs for reading, writing and manipulating HDR images
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
 net-analyzer/suricata 6.0.6: High performance Network IDS, IPS and Network Security Monitoring engine
@@ -46,6 +47,7 @@ net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, Docu
 sci-biology/mfold_util 4.7-r1: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r3: Unified Nucleic Acid Folding and hybridization package
 sys-block/partclone 0.3.17: Partition cloning tool
+sys-fs/libldm 0.2.5: Tool for managing windows's LDM partitions
 sys-kernel/pf_ring-kmod 8.0.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
 virtual/libudev 232-r4: Virtual for libudev providers
 virtual/libusb 1-r3: Virtual for libusb
