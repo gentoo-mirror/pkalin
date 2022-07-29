@@ -42,7 +42,7 @@ net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data int
 net-firewall/ipt_netflow 2.6_p20211125: Netflow iptables module
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
 net-libs/libpfring 8.0.0 9999: PF_RING: High-speed packet processing framework (libpfring)
-net-mail/libpst 0.6.76: Tools and library for reading Outlook files (.pst format)
+net-mail/libpst 0.6.76-r1: Tools and library for reading Outlook files (.pst format)
 net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, DocuCentre-V, DocuPrint)
 sci-biology/mfold_util 4.7-r1: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r3: Unified Nucleic Acid Folding and hybridization package
