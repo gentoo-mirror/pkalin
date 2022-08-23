@@ -1,14 +1,14 @@
 BDEPEND=dev-lang/perl
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-perl/XML-Entities dev-lang/perl dev-lang/perl
+DEPEND=dev-perl/XML-Entities dev-lang/perl
 DESCRIPTION=Mac::PropertyList - work with Mac plists at a low level
 EAPI=7
 HOMEPAGE=https://metacpan.org/release/Mac-PropertyList
 INHERIT=perl-module
-KEYWORDS=amd64
+KEYWORDS=~amd64
 LICENSE=|| ( Artistic GPL-1 GPL-2 GPL-3 )
 RDEPEND=dev-lang/perl:=
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/B/BD/BDFOY/Mac-PropertyList-1.503.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
-_md5_=8db5d90be987f680af6ab9ac1303e38c
+_md5_=92b00d20f41e2bffaacab407b6ebe58e

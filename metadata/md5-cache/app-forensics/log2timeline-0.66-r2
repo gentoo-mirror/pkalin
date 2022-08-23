@@ -5,10 +5,10 @@ DESCRIPTION=Create forensic supertimelines in Perl
 EAPI=7
 HOMEPAGE=https://github.com/thinrope/log2timeline
 INHERIT=perl-module
-KEYWORDS=amd64
+KEYWORDS=~amd64
 LICENSE=GPL-3
 RDEPEND=media-libs/exiftool >=dev-perl/Archive-Zip-1.18 dev-perl/Carp-Assert dev-perl/DBI dev-perl/DBD-SQLite dev-perl/Data-Hexify >=dev-perl/DateTime-0.41 dev-perl/DateTime-Format-Strptime dev-perl/DateTime-TimeZone >=dev-perl/Digest-CRC-0.14 dev-perl/HTML-Scrubber dev-perl/Net-Pcap dev-perl/NetPacket dev-perl/Params-Validate dev-perl/XML-LibXML dev-perl/File-Mork dev-perl/JSON-XS dev-perl/Mac-PropertyList dev-perl/Parse-Win32Registry dev-lang/perl:=
 SLOT=0
 SRC_URI=https://github.com/thinrope/log2timeline/archive/v0.66.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
-_md5_=6eb7810e3c6d415f17c3b943b5b12ecc
+_md5_=a9c111dbc51b4ed2512504997e87a25a

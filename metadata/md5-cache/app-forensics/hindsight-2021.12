@@ -6,6 +6,7 @@ EAPI=8
 HOMEPAGE=https://github.com/obsidianforensics/hindsight
 INHERIT=distutils-r1 git-r3
 IUSE=python_targets_python3_8 python_targets_python3_9 python_targets_python3_10
+KEYWORDS=~amd64
 LICENSE=Apache-2.0
 PROPERTIES=live
 RDEPEND=python_targets_python3_8? ( >=dev-lang/python-3.8.13:3.8 ) python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) >=dev-python/bottle-0.12.18 >=dev-python/keyring-21.2.1 >=dev-python/pycryptodome-3.9.7 >=dev-python/pytz-2021.3 >=dev-python/xlsxwriter-3.0.1 >=dev-python/puremagic-1.11 python_targets_python3_8? ( >=dev-lang/python-3.8.13:3.8 ) python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
