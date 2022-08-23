@@ -9,6 +9,7 @@ app-forensics/libewf 9999 20171104-r1: Implementation of the EWF (SMART and EnCa
 app-forensics/log2timeline 0.66-r2 9999: Create forensic supertimelines in Perl
 app-forensics/pytsk 20210327: Python bindings for Sleuthkit
 app-forensics/scap-security-guide 0.1.29 9999: Baseline compliance content in SCAP formats
+app-misc/goobook 3.5.1-r2: Access your Google contacts from the command line
 dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libcaes 20170110_alpha: Library for date and time formats
 dev-libs/libcdata 20180102_alpha: Library for cross-platform C generic data functions
