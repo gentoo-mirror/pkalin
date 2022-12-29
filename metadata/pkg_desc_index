@@ -3,7 +3,7 @@ app-forensics/ftimes 3.11.0-r1: A system baselining and evidence collection tool
 app-forensics/hindsight 2021.12 9999: Internet history forensics for Google Chrome/Chromium
 app-forensics/log2timeline 0.66-r2 9999: Create forensic supertimelines in Perl
 app-forensics/pytsk 20210327: Python bindings for Sleuthkit
-app-misc/goobook 3.5.1-r3: Access your Google contacts from the command line
+app-misc/goobook 3.5.2: Access your Google contacts from the command line
 dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libusb 1.0.24-r1: Userspace access to USB devices
 dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history files
