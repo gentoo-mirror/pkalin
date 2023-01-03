@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=sys-fs/e2fsprogs btrfs? ( sys-fs/btrfs-progs ) fat? ( sys-fs/dosfstools ) ntfs? ( sys-fs/ntfs3g ) hfs? ( sys-fs/hfsutils ) xfs? ( sys-fs/xfsprogs )
 SLOT=0
 SRC_URI=mirror://sourceforge/partclone/source/partclone-0.3.17.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32
 _md5_=1782a3c896d3388372feb3d9d53f78d9
