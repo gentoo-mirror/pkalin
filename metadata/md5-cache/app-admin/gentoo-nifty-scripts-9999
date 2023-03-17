@@ -11,5 +11,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-vcs/git app-portage/eix app-admin/perl-cleaner app-portage/gentoolkit i18n? ( app-text/convmv app-arch/p7zip ) sys-apps/util-linux sys-apps/coreutils sys-devel/bc
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=bb556c477763c991e07cf5de045e9a55
