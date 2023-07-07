@@ -2,8 +2,8 @@ BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install postinst postrm preinst setup unpack
 DEPEND=virtual/linux-sources kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) kernel_linux? ( virtual/linux-sources virtual/libelf )
 DESCRIPTION=PF_RING: High-speed packet processing framework (kernel modules for)
-EAPI=7
-HOMEPAGE=http://www.ntop.org/products/packet-capture/pf_ring/
+EAPI=8
+HOMEPAGE=https://www.ntop.org/products/packet-capture/pf_ring/
 INHERIT=linux-mod linux-info git-r3
 IUSE=dist-kernel
 KEYWORDS=~amd64
@@ -12,4 +12,4 @@ PROPERTIES=live
 RDEPEND=virtual/linux-sources kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) )
 SLOT=0
 _eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	linux-mod	65030ccb60b8a236bc29c8caa76e3815	git-r3	27e13c09a4c7e4c78ac812f74727e676
-_md5_=cbe746ee39fb39335237d58b92c5ce13
+_md5_=821025550895ec1e4a379a465a7986a5
