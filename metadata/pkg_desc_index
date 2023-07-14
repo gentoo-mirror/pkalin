@@ -1,7 +1,9 @@
 app-admin/gentoo-nifty-scripts 9999: Nifty scrips for gentoo that go under /usr/local/{,s}bin
+app-forensics/dfvfs 20230507: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20221218: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/ftimes 3.11.0-r1: A system baselining and evidence collection tool
 app-forensics/hindsight 2021.12 9999: Internet history forensics for Google Chrome/Chromium
+app-forensics/liblnk 20230205: Library and tools to access the Windows Shortcut File (LNK) format
 app-forensics/log2timeline 0.66-r2 9999: Create forensic supertimelines in Perl
 app-forensics/plaso 20230311: Plaso (log2timeline) is a framework to create super timelines.
 app-forensics/pytsk 20230125: Python bindings for Sleuthkit
@@ -9,6 +11,7 @@ app-misc/goobook 3.5.2: Access your Google contacts from the command line
 dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libfmapi 20230408: Library for MAPI data types
 dev-libs/libfwps 20230130: Library for Windows Property Store data types
+dev-libs/libsigscan 20230109: Library for binary signature scanning.
 dev-libs/libusb 1.0.24-r1: Userspace access to USB devices
 dev-libs/libwrc 20230214: Library to access the Windows Resource Compiler (WRC) format
 dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history files
@@ -36,3 +39,4 @@ sys-fs/libldm 0.2.5: Tool for managing windows's LDM partitions
 sys-kernel/pf_ring-kmod 8.4.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
 virtual/libudev 232-r7: Virtual for libudev providers
 virtual/libusb 1-r3: Virtual for libusb
+x11-drivers/evdi 1.14.0: Extensible Virtual Display Interface
