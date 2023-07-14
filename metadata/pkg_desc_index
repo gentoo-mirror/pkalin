@@ -39,4 +39,3 @@ sys-fs/libldm 0.2.5: Tool for managing windows's LDM partitions
 sys-kernel/pf_ring-kmod 8.4.0 9999: PF_RING: High-speed packet processing framework (kernel modules for)
 virtual/libudev 232-r7: Virtual for libudev providers
 virtual/libusb 1-r3: Virtual for libusb
-x11-drivers/evdi 1.14.0: Extensible Virtual Display Interface
