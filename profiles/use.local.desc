@@ -37,3 +37,4 @@ sys-block/partclone:minix - Support minix
 sys-block/partclone:ntfs - Support ntfs
 sys-block/partclone:vmfs - Support vmfs
 sys-block/partclone:xfs - Support xfs
+sys-process/lsof:rpc - support looking up RPC service info
