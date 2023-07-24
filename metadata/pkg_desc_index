@@ -7,7 +7,7 @@ app-forensics/hindsight 2021.12 9999: Internet history forensics for Google Chro
 app-forensics/liblnk 20230205: Library and tools to access the Windows Shortcut File (LNK) format
 app-forensics/log2timeline 0.66-r2 9999: Create forensic supertimelines in Perl
 app-forensics/plaso 20230717: Plaso (log2timeline) is a framework to create super timelines.
-app-forensics/pytsk 20230125: Python bindings for Sleuthkit
+app-forensics/pytsk 20230125: Python bindings for The Sleuthkit (libtsk)
 app-misc/goobook 3.5.2: Access your Google contacts from the command line
 dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libfmapi 20230408: Library for MAPI data types
