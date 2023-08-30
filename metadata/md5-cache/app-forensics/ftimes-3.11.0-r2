@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install
+DEPEND=>=sys-libs/zlib-1.2.8 >=app-arch/bzip2-1.0.6 ssl? ( >=dev-libs/openssl-1.0.2d ) pcre? ( >=dev-libs/libpcre-8.36 )
+DESCRIPTION=A system baselining and evidence collection tool
+EAPI=8
+HOMEPAGE=http://ftimes.sourceforge.net/FTimes/
+IUSE=pcre ssl static
+KEYWORDS=~amd64
+LICENSE=BSD
+SLOT=0
+SRC_URI=mirror://sourceforge/ftimes/ftimes-3.11.0.tgz
+_md5_=0afc0c858bdae6ea38a86ceedcb67b5f
