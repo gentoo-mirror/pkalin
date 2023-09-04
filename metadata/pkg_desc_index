@@ -20,7 +20,6 @@ dev-perl/Mac-PropertyList 1.503: Mac::PropertyList - work with Mac plists at a l
 dev-perl/Parse-Win32Registry 1.1: Parse Windows Registry Files
 dev-python/dfdatetime 20221218: Digital Forensics date and time
 dev-python/dtfabric 20230520: YAML-based definition language to specify format and data types
-media-gfx/nomacs 3.16.224-r3: Qt-based image viewer
 media-gfx/pfstools 2.2.0: A set of command line programs for reading, writing and manipulating HDR images
 media-gfx/ufraw 0.22-r5: RAW Image format viewer and GIMP plugin
 media-plugins/kodi-pvr-waipu 19.3.1: Kodi's waipu.tv PVR client addon
