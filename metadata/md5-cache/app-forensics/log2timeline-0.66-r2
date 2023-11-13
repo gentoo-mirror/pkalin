@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=media-libs/exiftool >=dev-perl/Archive-Zip-1.18 dev-perl/Carp-Assert dev-perl/DBI dev-perl/DBD-SQLite dev-perl/Data-Hexify >=dev-perl/DateTime-0.41 dev-perl/DateTime-Format-Strptime dev-perl/DateTime-TimeZone >=dev-perl/Digest-CRC-0.14 dev-perl/HTML-Scrubber dev-perl/Net-Pcap dev-perl/NetPacket dev-perl/Params-Validate dev-perl/XML-LibXML dev-perl/File-Mork dev-perl/JSON-XS dev-perl/Mac-PropertyList dev-perl/Parse-Win32Registry dev-lang/perl:=
 SLOT=0
 SRC_URI=https://github.com/thinrope/log2timeline/archive/v0.66.tar.gz
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	perl-functions	c3fca037246e877693badea0df3b0ef8	toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	perl-module	4e37e1004a0a27e41bb7025c0b974676
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	perl-functions	c3fca037246e877693badea0df3b0ef8	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	perl-module	4e37e1004a0a27e41bb7025c0b974676
 _md5_=a9c111dbc51b4ed2512504997e87a25a
