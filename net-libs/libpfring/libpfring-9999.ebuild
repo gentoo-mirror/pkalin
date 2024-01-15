@@ -47,6 +47,5 @@ src_install() {
 	cd lib/
 	emake DESTDIR="${D}" install-includes
 	default
-#emake DESTDIR="${D}" install
 	# FIXME: Do we need to install nbpftest
 }
