@@ -22,7 +22,7 @@ else
 fi
 IUSE=""
 
-S="${WORKDIR}/${PN}/userland/lib"
+S="${WORKDIR}/${PN}/userland"
 
 DEPEND="sys-kernel/linux-headers
 	sys-process/numactl"
@@ -38,8 +38,15 @@ src_configure() {
 	"${@}" || die
 }
 
+src_compile() {
+	MAKEOPTS=-j1
+	emake ${PN}
+}
+
 src_install() {
+	cd lib/
 	emake DESTDIR="${D}" install-includes
 	default
+#emake DESTDIR="${D}" install
 	# FIXME: Do we need to install nbpftest
 }
