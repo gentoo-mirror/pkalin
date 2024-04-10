@@ -4,6 +4,7 @@ app-forensics/dfvfs 20230507: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20221218: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/ftimes 3.11.0-r2: A system baselining and evidence collection tool
 app-forensics/hindsight 2021.12 9999: Internet history forensics for Google Chrome/Chromium
+app-forensics/libbde 20231220: Library and tools to access BitLocker Drive Encryption (BDE) encrypted volumes
 app-forensics/liblnk 20230205: Library and tools to access the Windows Shortcut File (LNK) format
 app-forensics/log2timeline 0.66-r2 9999: Create forensic supertimelines in Perl
 app-forensics/plaso 20230717: Plaso (log2timeline) is a framework to create super timelines.
