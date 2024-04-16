@@ -1,4 +1,4 @@
-app-admin/gentoo-nifty-scripts 9999: Nifty scrips for gentoo that go under /usr/local/{,s}bin
+app-admin/gentoo-nifty-scripts 1.0.0: Nifty scrips for Gentoo that go under /usr/local/{,s}bin
 app-forensics/acstore 20230519 20240407: A stand-alone implementation to read and write Attribute Container stores
 app-forensics/dfvfs 20230507 20240115: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20221218 20240229: Digital Forensics Windows Registry (dfWinReg)

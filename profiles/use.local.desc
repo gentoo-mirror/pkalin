@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-admin/gentoo-nifty-scripts:i18n - Add support for non-utf8 encoded ZIP files via app-text/convmv.
 app-forensics/libbde:fuse - Enable FUSE support
 media-gfx/ufraw:contrast - enable contrast setting option
 media-gfx/ufraw:fits - Enable support for the FITS image format through sci-libs/cfitsio
