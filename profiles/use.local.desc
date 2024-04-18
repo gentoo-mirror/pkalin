@@ -24,7 +24,6 @@ net-analyzer/yaf:mpls - enable MPLS label hashing and export
 net-analyzer/yaf:nonip - enable non-IP data decode and flow export
 net-analyzer/yaf:p0f - enable the OS finger printing capability by net-analyzer/p0f
 net-analyzer/yaf:spread - Add support for net-misc/spread
-net-firewall/ipt_netflow:natevents - Netflow NAT translation events (NEL) support
 net-libs/libfixbuf:man - install man pages
 net-libs/libfixbuf:spread - Add support for net-misc/spread
 sys-block/partclone:btrfs - Support btrfs
