@@ -10,7 +10,6 @@ app-forensics/libvsapm 20240226: Library and tools to access the Apple Partition
 app-forensics/log2timeline 0.66-r3: Create forensic supertimelines in Perl
 app-forensics/plaso 20230717 20240409: Plaso (log2timeline) is a framework to create super timelines.
 app-forensics/pytsk 20230125 20231007: Python bindings for The Sleuthkit (libtsk)
-dev-java/jikes 1.22-r14: IBM's open source, high performance Java compiler
 dev-libs/libfcrypto 20200104 20240115: Library for encryption formats
 dev-libs/libfmapi 20230408: Library for MAPI data types
 dev-libs/libfwps 20230130 20240310: Library for Windows Property Store data types
@@ -35,7 +34,6 @@ net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting 
 net-libs/libhtp 0.5.41: security-aware parser for the HTTP protocol and the related bits and pieces
 net-libs/libpfring 8.6.1 9999: PF_RING: High-speed packet processing framework (libpfring)
 net-mail/libpst 0.6.76-r1: Tools and library for reading Outlook files (.pst format)
-net-print/fxlinuxprint 1.0.1: CUPS drivers for XEROX printers (ApeosPort-V, DocuCentre-V, DocuPrint)
 sci-biology/mfold_util 4.7-r1: mfold_util: graphic rendering for UNAFold
 sci-biology/unafold 3.8-r3: Unified Nucleic Acid Folding and hybridization package
 sys-block/partclone 0.3.17-r1: Partition cloning tool
