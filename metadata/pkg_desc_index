@@ -10,6 +10,7 @@ app-forensics/libvsapm 20240226: Library and tools to access the Apple Partition
 app-forensics/log2timeline 0.66-r3: Create forensic supertimelines in Perl
 app-forensics/plaso 20230717 20240409: Plaso (log2timeline) is a framework to create super timelines.
 app-forensics/pytsk 20230125 20231007: Python bindings for The Sleuthkit (libtsk)
+app-forensics/xmount 1.1.1: Convert on-the-fly between multiple input and output harddisk image types
 dev-libs/libfcrypto 20200104 20240115: Library for encryption formats
 dev-libs/libfmapi 20230408: Library for MAPI data types
 dev-libs/libfwps 20230130 20240310: Library for Windows Property Store data types

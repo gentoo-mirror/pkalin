@@ -3,6 +3,8 @@
 # * generated automatically using pmaint *
 
 app-forensics/libbde:fuse - Enable FUSE support
+app-forensics/xmount:aff - Enable afflib AFFv3 format support
+app-forensics/xmount:ewf - Enable libewf formats support
 media-gfx/ufraw:contrast - enable contrast setting option
 media-gfx/ufraw:fits - Enable support for the FITS image format through sci-libs/cfitsio
 media-gfx/ufraw:timezone - enable DST correction for file timestamps
