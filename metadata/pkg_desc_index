@@ -15,7 +15,7 @@ dev-libs/libfcrypto 20200104 20240115: Library for encryption formats
 dev-libs/libfmapi 20230408: Library for MAPI data types
 dev-libs/libfwps 20230130 20240310: Library for Windows Property Store data types
 dev-libs/libfwsi 20220927 20240315: Library to access the Windows Shell Item format
-dev-libs/libsigscan 20230109: Library for binary signature scanning.
+dev-libs/libsigscan 20240505: Library for binary signature scanning.
 dev-libs/libusb 1.0.24-r1: Userspace access to USB devices
 dev-libs/libwrc 20230214: Library to access the Windows Resource Compiler (WRC) format
 dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history files
