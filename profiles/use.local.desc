@@ -28,6 +28,9 @@ net-analyzer/yaf:p0f - enable the OS finger printing capability by net-analyzer/
 net-analyzer/yaf:spread - Add support for net-misc/spread
 net-libs/libfixbuf:man - install man pages
 net-libs/libfixbuf:spread - Add support for net-misc/spread
+sys-apps/ugrep:7z - Enable 7z compression support
+sys-apps/ugrep:boost - Use the Regex library from boost (USE=pcre is better)
+sys-apps/ugrep:bzip3 - Enable bzip3 compression support
 sys-block/partclone:btrfs - Support btrfs
 sys-block/partclone:exfat - Support exfat
 sys-block/partclone:fat - Support fat
