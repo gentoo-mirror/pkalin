@@ -1,0 +1,15 @@
+DEFINED_PHASES=configure install setup
+DEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* )
+DESCRIPTION=Library for Windows NT data types
+EAPI=8
+HOMEPAGE=https://github.com/libyal/libfwnt
+INHERIT=python-single-r1
+IUSE=debug nls python +threads python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
+SLOT=0
+SRC_URI=https://github.com/libyal/libfwnt/releases/download/20240415/libfwnt-alpha-20240415.tar.gz
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	b7726144f5af59e186d66746d0f513e5	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
+_md5_=480029eefc50c9c43262ead5f6db45a2
