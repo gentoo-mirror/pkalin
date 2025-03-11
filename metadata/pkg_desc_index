@@ -17,7 +17,7 @@ dev-libs/libfwps 20230130 20240310: Library for Windows Property Store data type
 dev-libs/libfwsi 20220927 20240315: Library to access the Windows Shell Item format
 dev-libs/libsigscan 20240505: Library for binary signature scanning.
 dev-libs/libusb 1.0.24-r1: Userspace access to USB devices
-dev-libs/libwrc 20230214: Library to access the Windows Resource Compiler (WRC) format
+dev-libs/libwrc 20240421: Library to access the Windows Resource Compiler (WRC) format
 dev-perl/File-Mork 0.4-r1: File::Mork - a module to read Mozilla URL history files
 dev-perl/Mac-PropertyList 1.503: Mac::PropertyList - work with Mac plists at a low level
 dev-perl/Parse-Win32Registry 1.1: Parse Windows Registry Files
