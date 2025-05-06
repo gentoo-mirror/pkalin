@@ -10,5 +10,5 @@ LICENSE=unafold
 RDEPEND=postscript? ( >=sci-biology/mfold_util-4.7 )
 SLOT=0
 SRC_URI=http://dinamelt.bioinfo.rpi.edu/download/unafold-3.8.tar.bz2
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
 _md5_=3c4b4cb843fbc7b067bcc14620e27a0e
