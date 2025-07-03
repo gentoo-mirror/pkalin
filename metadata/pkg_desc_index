@@ -12,6 +12,7 @@ app-forensics/libscca 20240427: Library and tools to access the Windows Prefetch
 app-forensics/libvsapm 20240503: Library and tools to access the Apple Partition Map (APM) volume system format
 app-forensics/log2timeline 0.66-r3: Create forensic supertimelines in Perl
 app-forensics/xmount 1.1.1: Convert on-the-fly between multiple input and output harddisk image types
+app-misc/oscar 1.6.0: Software used to analyze data from CPAP machines
 dev-libs/libcdata 20240414: Library for cross-platform C generic data functions
 dev-libs/libclocale 20240414: Library for cross-platform C locale functions
 dev-libs/libfcache 20240414: Library for cross-platform C cache functions
@@ -37,7 +38,7 @@ media-gfx/pfstools 2.2.0: A set of command line programs for reading, writing an
 media-gfx/ufraw 0.22-r6: RAW Image format viewer and GIMP plugin
 media-libs/vidstab 1.1.1 9999: Video stabilization library
 media-plugins/kodi-pvr-waipu 19.3.1: Kodi's waipu.tv PVR client addon
-net-analyzer/passivedns 1.2.1-r1 9999: A network sniffer for DNS server replies
+net-analyzer/passivedns 1.2.1-r2 9999: A network sniffer for DNS server replies
 net-analyzer/suricata 7.0.5-r1 7.0.8-r1: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
 net-libs/libfixbuf 2.4.0: IPFIX Protocol library, for building IPFIX Collecting and Exporting Processes
