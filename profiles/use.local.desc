@@ -3,6 +3,8 @@
 # * generated automatically using pmaint *
 
 app-forensics/libbde:fuse - Enable FUSE support
+app-forensics/sleuthkit:aff - Enable extra aff formats
+app-forensics/sleuthkit:ewf - Enable libewf support
 app-forensics/xmount:aff - Enable afflib AFFv3 format support
 app-forensics/xmount:ewf - Enable libewf formats support
 dev-libs/libvhdi:fuse - Enable fuse support
