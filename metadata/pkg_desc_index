@@ -2,12 +2,13 @@ app-admin/gentoo-nifty-scripts 1.0.0: Nifty scrips for Gentoo that go under /usr
 app-forensics/acstore 20240407: A stand-alone implementation to read and write Attribute Container stores
 app-forensics/dfvfs 20230507 20240115 20240505: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20221218 20240229 20240316: Digital Forensics Windows Registry (dfWinReg)
-app-forensics/ftimes 3.11.0-r2: A system baselining and evidence collection tool
+app-forensics/ftimes 3.11.0-r2 3.13.0: A system baselining and evidence collection tool
 app-forensics/hindsight 2021.12 9999: Internet history forensics for Google Chrome/Chromium
 app-forensics/libbde 20240502: Library and tools to access BitLocker Drive Encryption (BDE) encrypted volumes
 app-forensics/libesedb 20240420: Library and tools to access the Extensible Storage Engine Database File format.
 app-forensics/libevtx 20240504: Library and tools to access the Windows XML Event Log (EVTX) format
 app-forensics/libexe 20240420: Library and tools to access the executable (EXE) format
+app-forensics/libklel 1.2.0: A system baselining and evidence collection tool
 app-forensics/liblnk 20240120 20240423: Library and tools to access the Windows Shortcut File (LNK) format
 app-forensics/libscca 20240427: Library and tools to access the Windows Prefetch File (SCCA) format.
 app-forensics/libvsapm 20240503: Library and tools to access the Apple Partition Map (APM) volume system format
