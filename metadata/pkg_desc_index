@@ -45,6 +45,7 @@ dev-util/cbindgen 0.26.0: A tool for generating C bindings to Rust code.
 media-gfx/pfstools 2.2.0: A set of command line programs for reading, writing and manipulating HDR images
 media-gfx/ufraw 0.22-r6: RAW Image format viewer and GIMP plugin
 media-libs/vidstab 1.1.1 9999: Video stabilization library
+media-plugins/kodi-pvr-waipu 21.12.5 22.5.5: Kodi's waipu.tv PVR client addon
 net-analyzer/passivedns 1.2.1-r2 9999: A network sniffer for DNS server replies
 net-analyzer/suricata 7.0.5-r1 7.0.8-r1: High performance Network IDS, IPS and Network Security Monitoring engine
 net-analyzer/yaf 2.11.0: YAF is Yet Another Flowmeter: processes packet data into IPFIX (netflow)
