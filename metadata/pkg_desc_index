@@ -18,6 +18,7 @@ app-forensics/pytsk 20250312: Python bindings for The Sleuthkit (libtsk)
 app-forensics/sleuthkit 4.14.0: A collection of file system and media management forensic analysis tools
 app-forensics/xmount 1.1.1: Convert on-the-fly between multiple input and output harddisk image types
 app-misc/oscar 1.6.0-r2 1.6.1: Software used to analyze data from CPAP machines
+dev-libs/capstone 5.0.6-r1: disassembly/disassembler framework + bindings
 dev-libs/libcdata 20240414: Library for cross-platform C generic data functions
 dev-libs/libclocale 20240414: Library for cross-platform C locale functions
 dev-libs/libfcache 20240414: Library for cross-platform C cache functions
